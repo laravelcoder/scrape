@@ -4,7 +4,7 @@ scrape
 a command-line web scraping tool
 --------------------------------
 
-scrape is a command line test for crossfit
+scrape is a command line test
 
 Installation
 ------------
